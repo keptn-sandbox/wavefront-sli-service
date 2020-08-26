@@ -1,6 +1,8 @@
 # README
 
-This is a Keptn Service Template written in GoLang. 
+Wavefront Keptn SLI Service enables Keptn to pull service level indicators from Wavefront (https://www.wavefront.com/)
+
+WORK IN PROGRESS - Taking from the Keptn Service Template written in GoLang. 
 
 Quick start:
 
